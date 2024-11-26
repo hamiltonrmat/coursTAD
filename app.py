@@ -10,7 +10,4 @@ st.title('Bonjour !')
 
 df = pd.DataFrame(values, columns=feature_names)
 
-
-
-st.line_chart(df[''])
 df
