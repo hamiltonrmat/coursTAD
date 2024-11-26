@@ -1,3 +1,4 @@
 streamlit
 pandas
 load_wine
+sklearn.datasets
